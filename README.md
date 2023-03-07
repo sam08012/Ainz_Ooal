@@ -26,4 +26,4 @@ While the Chimocracy Voting Smart Contract provides a basic implementation of a 
 * Lack of accessibility: The smart contract is not easily accessible to non-technical users, as it requires knowledge of Ethereum blockchain and Solidity programming language to deploy and use the contract
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License.
