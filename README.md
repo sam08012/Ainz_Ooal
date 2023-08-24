@@ -1,4 +1,4 @@
-# CHIMOCRACY
+# DEMOCRACY DECENTRALIZED
 
 ## Chimocracy Voting Smart Contract
 This is a Solidity smart contract that provides a voting mechanism for democratic elections. The smart contract allows eligible voters to cast their votes for a single candidate, and the votes are stored on the blockchain, ensuring transparency and immutability in the election process. The smart contract also allows the election results to be computed immediately after the voting ends.
